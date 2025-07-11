@@ -1,4 +1,4 @@
-# YouTube Comment Section Blocker
+# YouTube Comment Section Blocker (Extension)
 
 Hide the comments section on YouTube to improve your focus and browsing experience.
 
@@ -29,6 +29,3 @@ Click Load unpacked
 Select the folder where you cloned or extracted this repo (youtube-comment-blocker)
 
 You should now see the extension in your Chrome extension list
-
-
-
